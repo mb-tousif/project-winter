@@ -1,0 +1,21 @@
+header, .top-banner{
+  background-color: #fffbf0;
+}
+
+.btn-color{
+  background-color: #91ab2c;
+  color: #fff;
+}
+h1,h2,h3{
+  color: #363958;
+}
+.text-color{
+  color: #fabe4c;
+}
+
+.image-style{
+  background-color: #f1f1f1;
+  padding: 1rem;
+  margin: 0 .5rem;
+  border-radius: 1rem;
+}
